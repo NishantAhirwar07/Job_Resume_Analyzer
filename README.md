@@ -2,7 +2,7 @@
 
 A machine learning powered web app that analyzes how well a resume matches a job description using **TF-IDF vectorization** and **Cosine Similarity**. Upload a resume (PDF), paste a job description, and instantly get a match score along with keyword insights to help improve resume alignment.
 
-**🔗 Live Demo:** [Add your Streamlit Cloud link here after deployment]
+**🔗 Live Demo:** []
 
 ---
 
@@ -126,20 +126,13 @@ Contributions, issues, and feature requests are welcome. Feel free to open a pul
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**[Nishant Ahirwar]**
+- GitHub: [@your-username](https://github.com/NishantAhirwar07)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/nishant-ahirwar-6aa7a8333?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
